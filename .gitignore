@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+wheels/
+review_output/
+*.dcm
+*.nii
+*.nii.gz
+*.zip
